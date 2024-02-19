@@ -1,0 +1,32 @@
+{
+  "name": "my-most-viral-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "@web3-react/core": "^8.2.3",
+    "bootstrap": "^5.3.0",
+    "ethers": "^5.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "web-vitals": "^3.5.2",
+    "web3": "^4.5.0"
+  },
+  "devDependencies": {
+    "browserslist": "^4.23.0",
+    "react-scripts": "5.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
